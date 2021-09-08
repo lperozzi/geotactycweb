@@ -127,7 +127,6 @@ sections:
         media_position: left
         media_width: fifty
       - title: Knowledge sharing
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
