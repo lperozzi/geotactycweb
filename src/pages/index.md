@@ -79,7 +79,7 @@ sections:
           learning, geostatistics and python applied to the geoscience industry.
         actions:
           - label: Contact us
-            url: '#'
+            url: /contact
             style: secondary
             has_icon: true
             icon: arrow-right
