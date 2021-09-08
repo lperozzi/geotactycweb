@@ -28,6 +28,7 @@ sections:
         label: Subject
         options: []
         is_required: false
+        default_value: Choose a subject
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
