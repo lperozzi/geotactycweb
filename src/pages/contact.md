@@ -27,7 +27,7 @@ sections:
         name: Subject
         label: Subject
         options:
-          - lorem-ipsum
+          - test1
           - lorem-ipsum
         is_required: false
         default_value: Please select
