@@ -9,7 +9,7 @@ sections:
     form_layout: inline
     enable_card: false
     form_id: contact
-    form_action: lorem-ipsum
+    form_action: Contact us
     form_fields:
       - input_type: text
         name: Name
