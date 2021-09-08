@@ -29,7 +29,7 @@ sections:
         options:
           - lorem-ipsum
         is_required: false
-        default_value: Choose a subject
+        default_value: Please select
       - input_type: textarea
         name: Message
         label: Message
