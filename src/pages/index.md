@@ -8,7 +8,7 @@ sections:
       into real-world applications.
     actions:
       - label: Contact us
-        url: /pricing
+        url: /contact
         style: primary
         has_icon: true
         icon: arrow-right
