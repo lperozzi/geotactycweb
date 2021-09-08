@@ -22,7 +22,7 @@ sections:
     image: images/hero_geotactyc.svg
     background_image_opacity: 0
   - content: |
-      # WHY GEOTACTYC ?
+      # Why Geotactyc ?
     actions: []
     actions_position: bottom
     actions_width: fourty
