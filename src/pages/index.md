@@ -110,7 +110,6 @@ sections:
         media_width: fourty
         align: left
       - title: GIS web appplications
-        subtitle: Always be in control
         content: >
           From geoscientific visualisation to GIS analytics, web applications
           are the best solution for your clients.
