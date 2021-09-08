@@ -109,7 +109,7 @@ sections:
         media_position: right
         media_width: fourty
         align: left
-      - title: GIS web appplications
+      - title: Web applications
         content: "We deliver tailor-made applications that can handle basic data processing or more elaborate cognitive computations and GIS analytics.\_\n"
         actions:
           - label: Take a look
