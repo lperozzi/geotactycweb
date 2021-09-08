@@ -94,9 +94,11 @@ sections:
     features:
       - title: Data-driven analytics
         content: >
-          We believe that techniques such as machine learning and geostatistics
-          are best suited for data integration,  geophysical processing,
-          geomodeling, and uncertainty quantification.
+          We use state-of-the-art techniques such as machine learning and
+          geostatistics for data integration,  geophysical processing,
+          geomodeling, and uncertainty quantification, to retrieve more
+          information, recognize hidden patterns, and increase the power of your
+          data.
         actions:
           - label: Learn More
             url: /pricing
