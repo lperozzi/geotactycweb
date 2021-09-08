@@ -143,6 +143,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: images/share.svg
     feature_padding_vert: large
     align: center
     background_color: none
