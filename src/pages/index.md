@@ -48,7 +48,7 @@ sections:
           information, recognize hidden patterns, and increase the power of your
           data.
         actions:
-          - label: Learn More
+          - label: Contact us
             url: /pricing
             style: primary
             has_icon: true
