@@ -22,7 +22,7 @@ sections:
         label: Email
         default_value: Your email
         options: []
-        is_required: false
+        is_required: true
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
