@@ -49,7 +49,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     content: |
-      Do you want to know more about us and our products?\<br>
+      Do you want to know more about us and our products?
       We would be happy to hear from you!
 seo:
   title: ''
