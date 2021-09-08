@@ -18,6 +18,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+    background_image_size: cover
   - type: grid_section
     title: What's Great About App Land?
     subtitle: In a Glance
