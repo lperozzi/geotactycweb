@@ -106,7 +106,7 @@ sections:
             icon_position: right
         image: images/Feature1.svg
         image_alt: Feature 1 placeholder image
-        media_position: left
+        media_position: right
         media_width: fifty
         align: left
       - title: Comprehensive Task List
