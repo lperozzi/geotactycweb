@@ -107,7 +107,7 @@ sections:
         image: images/Feature1.svg
         image_alt: Feature 1 placeholder image
         media_position: right
-        media_width: sixty
+        media_width: thirty-three
         align: left
       - title: Comprehensive Task List
         subtitle: Always be in control
