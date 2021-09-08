@@ -20,7 +20,7 @@ sections:
       - input_type: email
         name: email
         label: Your email
-        default_value: lorem-ipsum
+        default_value: Your email
         options: []
         is_required: false
       - input_type: text
