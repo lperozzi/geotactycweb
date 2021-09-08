@@ -94,9 +94,9 @@ sections:
     features:
       - title: Data-driven analytics
         content: >
-          We apply quantitative techniques such as machine learning and
-          geostatistics for geophysical processing and inversion, geomodeling,
-          and uncertainty quantification.
+          We believe that techniques such as machine learning and geostatistics
+          are best suited for data integration,  geophysical processing,
+          geomodeling, and uncertainty quantification.
         actions:
           - label: Learn More
             url: /pricing
