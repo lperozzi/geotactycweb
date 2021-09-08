@@ -26,7 +26,8 @@ sections:
       - input_type: select
         name: Subject
         label: Subject
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         default_value: Choose a subject
       - input_type: text
