@@ -125,7 +125,7 @@ sections:
         image: images/Feature2.png
         image_alt: Feature 2 placeholder image
         media_position: left
-        media_width: fifty
+        media_width: fourty
       - title: Knowledge sharing
         content: >-
           ## Lorem ipsum
