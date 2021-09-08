@@ -110,7 +110,7 @@ sections:
         media_width: fourty
         align: left
       - title: Web applications
-        content: "We deliver tailor-made applications that can handle basic data processing or more elaborate cognitive computations and GIS analytics.\_\n"
+        content: "We deliver tailor-made web applications that can handle basic data processing or more elaborate cognitive computations and GIS analytics.\_\n"
         actions:
           - label: Take a look
             url: /pricing
