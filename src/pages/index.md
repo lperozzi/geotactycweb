@@ -7,7 +7,7 @@ sections:
       At Geotactyc we bring our scientific knowledge and innovative thinking
       into real-world applications.
     actions:
-      - label: App Store
+      - label: Contact us
         url: /pricing
         style: primary
     image: images/hero_geotactyc.svg
