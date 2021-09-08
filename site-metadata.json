@@ -42,7 +42,6 @@
         "anncmnt_id": "new-features"
     },
     "footer": {
-        "logo": "images/logo.svg",
         "logo_alt": "App logo",
         "has_primary_nav": false,
         "primary_nav_title": "Company",
