@@ -109,7 +109,7 @@ sections:
         media_position: right
         media_width: fourty
         align: left
-      - title: GIS web
+      - title: GIS web app
         subtitle: Always be in control
         content: >-
           We all have stuff to do all the time: Work tasks, calls to make,
