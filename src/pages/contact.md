@@ -31,7 +31,7 @@ sections:
         is_required: false
         default_value: Choose a subject
       - input_type: textarea
-        name: lorem-ipsum
+        name: Message
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
