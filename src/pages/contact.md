@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Contact-us
 sections:
   - title: Contact us
     subtitle: lorem-ipsum
