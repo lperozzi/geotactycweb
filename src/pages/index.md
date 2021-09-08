@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Geodata science for your needs
     content: >
-      At Geotactyc we bring our scientific knowledge to real-world
-      applications. 
+      At Geotactyc we bring our scientific knowledge and innovative thinking
+      into real-world applications.
     actions:
       - label: App Store
         url: /pricing
