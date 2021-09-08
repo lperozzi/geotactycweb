@@ -64,7 +64,7 @@ sections:
         actions:
           - label: Contact us
             url: /contact
-            style: secondary
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
