@@ -19,7 +19,7 @@ sections:
         is_required: true
       - input_type: email
         name: email
-        label: Your email
+        label: email
         default_value: Your email
         options: []
         is_required: false
