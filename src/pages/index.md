@@ -124,7 +124,7 @@ sections:
             icon_position: right
         image: images/Feature2.png
         image_alt: Feature 2 placeholder image
-        media_position: right
+        media_position: left
         media_width: fifty
     feature_padding_vert: large
     align: center
