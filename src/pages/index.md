@@ -141,7 +141,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: right
-        media_width: fifty
+        media_width: sixty
         align: left
         image: images/share.svg
     feature_padding_vert: large
