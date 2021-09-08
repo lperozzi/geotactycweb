@@ -35,7 +35,7 @@ sections:
         label: Message
         default_value: Your message
         options: []
-        is_required: false
+        is_required: true
     submit_label: lorem-ipsum
     align_vert: top
     padding_top: medium
