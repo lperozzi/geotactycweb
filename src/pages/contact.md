@@ -15,7 +15,8 @@ sections:
         name: Name
         label: Name
         default_value: Your name
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
       - input_type: text
         name: lorem-ipsum
