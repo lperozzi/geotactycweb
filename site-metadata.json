@@ -139,7 +139,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Geotactyc 2021. All rights reserved. This website was created with <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a> and<a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>."
+        "content": "&copy; Geotactyc 2021. All rights reserved. This website was created with <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Gatsby/a> and<a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>."
     },
     "title": "Geotacty - let speak your data",
     "domain": "https://geotactycweb-85f59.netlify.app"
