@@ -10,7 +10,6 @@ sections:
       - label: Contact us
         url: /pricing
         style: primary
-    image: images/hero_geotactyc.svg
     image_alt: Hero section placeholder image
     media_position: right
     media_width: fifty
