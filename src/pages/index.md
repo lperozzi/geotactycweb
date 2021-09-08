@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Contact us
         url: /pricing
-        style: primary
+        style: secondary
     image_alt: Hero section placeholder image
     media_position: right
     media_width: fifty
