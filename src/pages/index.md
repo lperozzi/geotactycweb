@@ -19,6 +19,7 @@ sections:
     padding_bottom: large
     background_color: none
     background_image_size: cover
+    image: images/hero_geotactyc.svg
   - type: grid_section
     title: What's Great About App Land?
     subtitle: In a Glance
