@@ -126,17 +126,10 @@ sections:
         media_position: left
         media_width: fourty
       - title: Knowledge sharing
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          We believe that the most efficient way to embrace new technologies is
+          to continuously share knowledge. We offer training in machine
+          learning, geostatistics and python applied to the geoscience industry.
         actions: []
         image_alt: lorem-ipsum
         media_position: right
