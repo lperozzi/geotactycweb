@@ -48,6 +48,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+    subtitle: Send us a message
 seo:
   title: ''
   description: ''
