@@ -129,7 +129,15 @@ sections:
           We believe that the most efficient way to embrace new technologies is
           to continuously share knowledge. We offer training in machine
           learning, geostatistics and python applied to the geoscience industry.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         image_alt: lorem-ipsum
         media_position: right
         media_width: fourty
