@@ -108,7 +108,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: fifty
-        align: right
+        align: left
       - title: Comprehensive Task List
         subtitle: Always be in control
         content: >-
