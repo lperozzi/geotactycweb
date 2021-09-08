@@ -21,8 +21,7 @@ sections:
     background_image_size: auto
     image: images/hero_geotactyc.svg
     background_image_opacity: 0
-  - title: lorem-ipsum
-    content: |
+  - content: |
       # Why Geotactyc
     actions: []
     actions_position: bottom
