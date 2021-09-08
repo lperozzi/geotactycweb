@@ -111,10 +111,9 @@ sections:
         align: left
       - title: GIS web appplications
         subtitle: Always be in control
-        content: >-
-          We all have stuff to do all the time: Work tasks, calls to make,
-          groceries to buy and dry cleaning to pick up. Get all your tasks in
-          one place for easy management.
+        content: >
+          From geoscientific visualisation to GIS analytics, web applications
+          are the best solution for your clients.
         actions:
           - label: Take a look
             url: /pricing
