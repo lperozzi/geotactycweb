@@ -28,6 +28,7 @@ sections:
         label: Subject
         options:
           - lorem-ipsum
+          - lorem-ipsum
         is_required: false
         default_value: Please select
       - input_type: textarea
