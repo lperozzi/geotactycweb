@@ -2,7 +2,7 @@
 title: Contact-us
 sections:
   - title: Contact us
-    title_align: left
+    title_align: center
     content_align: left
     form_position: bottom
     form_width: fifty
