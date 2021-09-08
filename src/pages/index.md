@@ -130,7 +130,7 @@ sections:
           to continuously share knowledge. We offer training in machine
           learning, geostatistics and python applied to the geoscience industry.
         actions:
-          - label: lorem-ipsum
+          - label: Contact us
             url: '#'
             style: link
             has_icon: false
