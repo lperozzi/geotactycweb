@@ -33,7 +33,7 @@ sections:
       - input_type: textarea
         name: Message
         label: Message
-        default_value: lorem-ipsum
+        default_value: Your message
         options: []
         is_required: false
     submit_label: lorem-ipsum
