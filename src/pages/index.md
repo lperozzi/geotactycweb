@@ -93,9 +93,10 @@ sections:
   - type: features_section
     features:
       - title: Data-driven analytics
-        content: >-
-          Stop juggling between calendar apps and productivity tools — from now
-          on all your appointments and meetings appear in one place.
+        content: >
+          We apply quantitative techniques such as machine learning and
+          geostatistics for geophysical processing and inversion, geomodeling,
+          and uncertainty quantification.
         actions:
           - label: Learn More
             url: /pricing
