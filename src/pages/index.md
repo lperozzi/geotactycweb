@@ -63,7 +63,7 @@ sections:
         content: "We deliver tailor-made web applications that can handle basic data processing or more elaborate cognitive computations and GIS analytics.\_\n"
         actions:
           - label: Take a look
-            url: /pricing
+            url: /contact
             style: secondary
             has_icon: true
             icon: arrow-right
