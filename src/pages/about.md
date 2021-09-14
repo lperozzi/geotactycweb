@@ -28,7 +28,6 @@ seo:
       relativeUrl: true
 template: page
 ---
-Lorenzo Perozzi is the founder of Geotactyc. He has several years of experience in geodata processing, integration, modeling and visualization using machine learning and geostatistics. Geotactyc's vision is to develop innovative approaches and provide digital solutions for an effective and sustainable exploration of your data.
+Lorenzo Perozzi is the founder of Geotactyc. He has several years of experience in geodata processing, integration, modeling and visualization using machine learning and geostatistics. Geotactyc's vision is to develop innovative approaches and provide digital solutions to retrieve more information, recognize hidden patterns and increase the power of your data and contribute to an effective and sustainable exploration of the georessoures.
 
-Lorenzo holds a PhD and an MSc from the Institut de la recherche scientifique (Québec, Canada) as well as a MSc in engineering geology from the University of Lausanne.
-
+Lorenzo holds a PhD and a MSc from the Institut de la recherche scientifique (Québec, Canada) as well as a MSc on engineering geology from the University of Lausanne.
