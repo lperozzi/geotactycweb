@@ -52,7 +52,7 @@ $color-meta:                           #8696a6 !default;
 // $color-body-bg:                        rgb(143, 42, 42) !default;
 $color-body-bg:                        #e6e9f0 !default;
 $color-body-bg1:                        -webkit-linear-gradient(to top, #cc208e , #6713d2) !default;
-$color-body-bg2:                        linear-gradient(to top, #cc208e, #6713d2) !default;
+$color-body-bg2:                        linear-gradient(315deg, #485461 0%, #28313b 74%);
 
 background-color: #485461;
 background-image: linear-gradient(315deg, #485461 0%, #28313b 74%);
