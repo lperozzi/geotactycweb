@@ -34,7 +34,7 @@ sections:
           data.
         actions:
           - label: Contact us
-            url: /pricing
+            url: /contact
             style: primary
             has_icon: true
             icon: arrow-right
