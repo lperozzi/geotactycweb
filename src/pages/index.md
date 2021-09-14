@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image_size: auto
-    image: images/hero_geotactyc.svg
+    image: images/hero-61430e2a.svg
     background_image_opacity: 0
   - type: features_section
     features:
